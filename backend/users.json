@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1757224477248,
+    "email": "pallumesta37@gmail.com",
+    "password": "$2a$10$lsSVrJ1rmYPV1tjZCEuxZe2gkb3cEo3faKnqdEYtY5d9vTMUO4KlC",
+    "name": "Vinutha"
+  },
+  {
+    "id": 1757224489165,
+    "email": "pallumesta3737@gmail.com",
+    "password": "$2a$10$qk7gpzATSJ9idotT2iiHGu3hDtFSJGnznVcr/gmyWzNG3n3/QHEN.",
+    "name": "Vinutha"
+  },
+  {
+    "id": 1757224519071,
+    "email": "dinga@gmail.com",
+    "password": "$2a$10$hY9AmV/3BuEE8LAmxMfpVeZLMkwC5xp0sNEUedwMRgesWRUvFK8OO",
+    "name": "dinga"
+  },
+  {
+    "id": 1,
+    "email": "test@example.com",
+    "password": "$2a$10$rOzZRwYlUzUcJZQnXzXZz.XzXZzXzXZzXzXZzXzXZzXzXZzXzXZz",
+    "name": "Test User"
+  },
+  {
+    "id": 1757228421129,
+    "email": "vinu@gmail.com",
+    "password": "$2a$10$PV2DZ1POlyNa2JkmKN3dgeDv18r32tKz/soXsPcneJHNTkPeDcPSa",
+    "name": "Vinu"
+  },
+  {
+    "id": 1757232797914,
+    "email": "gu@gmail.com",
+    "password": "$2a$10$9e93rd6b6Xt/HgLfVcGEb.yLd4BTUmHBqPUqgE90Lz4WK.z5awyvS",
+    "name": "gu"
+  }
+]
